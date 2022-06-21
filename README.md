@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosantanarj" alt="brunosantanarj" /></a> </p>
 
-- 🔭 I’m currently working on **Ifood**
+- 🔭 I’m currently working on **iFood**
 
 - 🌱 I’m currently learning **Remix and Astro**
 
