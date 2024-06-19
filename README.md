@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosantanarj" alt="brunosantanarj" /></a> </p>
 
-- 🔭 I’m currently working on **iFood**
+- 🔭 I’m currently working
 
-- 🌱 I’m currently learning **Remix and Astro**
+- 🌱 I’m currently learning **Tech leadership**
 
 - 📝 I regularly write articles on [https://medium.com/@brunosantana021](https://medium.com/@brunosantana021)
 
