@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Santana</h1>
-<h3 align="center">A passionate developer from Brazil. More than 8 years of experience in software engineering.</h3>
+<h3 align="center">A passionate developer from Brazil. More than 9 years of experience in software engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosantanarj&label=Profile%20views&color=0e75b6&style=flat" alt="brunosantanarj" /> </p>
 
